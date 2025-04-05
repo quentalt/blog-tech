@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>https://respirecacode.vercel.app/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Apr 2025 14:17:49 +0200</lastBuildDate>
+    <atom:link href="https://respirecacode.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genkit 1.0</title>
+      <link>https://respirecacode.vercel.app/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Apr 2025 14:17:49 +0200</pubDate>
+      <guid>https://respirecacode.vercel.app/posts/my-first-post/</guid>
+      <description>Genkit 1.0 : Un framework pour créer des applications IA avec Angular Cet article du blog Angular annonce la disponibilité de la version 1.0 de Genkit, un framework conçu par l&amp;rsquo;équipe Firebase de Google pour faciliter la création d&amp;rsquo;applications et de fonctionnalités alimentées par l&amp;rsquo;IA avec Node.js et Go. Il explique comment les développeurs Angular peuvent intégrer Genkit dans leurs applications, en utilisant un backend Node.js et en illustrant des exemples de génération de texte simple et de diffusion de réponses en continu.</description>
+    </item>
+  </channel>
+</rss>
